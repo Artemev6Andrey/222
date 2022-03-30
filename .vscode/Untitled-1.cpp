@@ -10,6 +10,7 @@ int main()
     cout <<"Hello world!\n";
     cout <<"\nWorld,23!";
     int a, b;
+    cout <<2+3;
+    cout <<5+5; 
     return 0;
-    cout <<2+3; 
 }
