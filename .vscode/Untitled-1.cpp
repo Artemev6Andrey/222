@@ -6,9 +6,10 @@ int main()
 {
 
     cout << "Hello,world!" << endl;
-    cout<<1+1;
+    cout <<1+1;
     cout <<"Hello world!\n";
-    cout<<"\nWorld,23!";
+    cout <<"\nWorld,23!";
     int a, b;
     return 0;
+    cout <<2+3; 
 }
