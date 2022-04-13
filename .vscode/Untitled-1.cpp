@@ -11,6 +11,6 @@ int main()
     cout <<"\nWorld,23!";
     int a, b;
     cout <<2+3;
-    cout <<5+5; 
+    cout <<5+25; 
     return 0;
 }
